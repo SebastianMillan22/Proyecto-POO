@@ -1,0 +1,7 @@
+'VARIABLES PARA CONEXIÓN EN BASE DE DATOS'
+
+MYSQL_HOST = 'ssql10.freemysqlhosting.net'
+MYSQL_USER = '	sql10736925'
+MYSQL_PASSWORD = 'sCTpaL7jjA'
+MYSQL_DB = 'sql10736925'
+HEX_SEC_KEY = 'moni<<10'
